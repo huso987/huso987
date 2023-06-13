@@ -17,8 +17,6 @@ I have done Frontend,Backend, artificial intelligence and mobile application pro
 ![](https://github-profile-trophy.vercel.app/?username=huso987&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=huso987&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
