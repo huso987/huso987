@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I am a 4th-year Computer Engineering student at Yalova University.So far, I have developed projects in mobile applications, ROS2 <br>web development, and image processing. Additionally, I am proficient in programming languages such as Python, C, C++, JavaScript,<br>TypeScript, HTML, CSS, and C#. Currently,I am currently working on Python, Django, and Machine Learning. </p>
+<p align="left">I am a 4th-year Computer Engineering student at Yalova University.So far, I have developed projects in mobile applications , ROS2 <br> , web development, and image processing. Additionally, I am proficient in programming languages such as Python, C, C++, JavaScript,<br>TypeScript, HTML, CSS, and C#. Currently,I am currently working on Python, Django, and Machine Learning. </p>
 
 ###
 
