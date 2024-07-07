@@ -21,7 +21,9 @@
 
 ###
 
-<p align="left">I am a 4th-year Computer Engineering student at Yalova University.So far, I have developed projects in mobile applications , ROS2 , <br> web development, and image processing. Additionally, I am proficient in programming languages such as Python, C, C++, JavaScript,<br>TypeScript, HTML, CSS, and C#. Currently,I am currently working on Python, Django, and Machine Learning. </p>
+<p align="left">As a Computer Engineering graduate from Yalova University, I have developed a strong foundation in various programming languages and frameworks through internships, certified training, and participation in Teknofest. My practical experience spans across Django, Vue.js, Nuxt.js, Computer Vision, and Natural Language Processing (NLP).
+
+Currently, I am focusing on specializing in Artificial Intelligence and Machine Learning, continuously enhancing my skills in these cutting-edge fields. Additionally, I am deepening my expertise in Django and Spring, aiming to integrate these technologies to create robust and scalable applications.I am passionate about leveraging AI and ML to solve real-world problems and am dedicated to staying updated with the latest advancements in technology. </p>
 
 ###
 
