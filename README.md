@@ -82,7 +82,7 @@ Currently, I am focusing on specializing in Artificial Intelligence and Machine 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="40" alt="Tableau logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-tableau-5376638-4489898.png?f=webp&w=256" height="40" alt="Tableau logo"  />
   
 </div>
 
