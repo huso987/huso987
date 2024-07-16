@@ -81,6 +81,9 @@ Currently, I am focusing on specializing in Artificial Intelligence and Machine 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="![image](https://github.com/user-attachments/assets/5e9ec020-fc10-4c37-b3a2-a1f8309a7e10)" height="40" alt="python logo"  />
+  
 </div>
 
 ###
