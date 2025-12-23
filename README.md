@@ -19,8 +19,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">I specialize in Data Science, and MLOps, focusing on developing data-driven solutions and optimizing AI and automation workflows.
 
 💡 Key Skills & Interests:
