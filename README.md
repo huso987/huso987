@@ -7,15 +7,12 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">Hüseyin Doğdu Python Developer</h1>
 <br>
 ###
 
 <h1 align="center">hey there 👋</h1>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
