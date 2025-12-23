@@ -25,12 +25,12 @@
 
 💡 Key Skills & Interests:
 
-Machine Learning & Data Science: ➡Model development, NLP , Time Series Analysis, RAG
-MLOps & Automation: ➡Model deployment, Docker, CI/CD pipelines
-Backend & Web Development: ➡Django, Flask, FastAPI
-Desktop Development: ➡GUI applications with PyQt5
-Data Visualization & Analysis:➡ SQL, Power BI, Tableau
-Web Scraping & Data Extraction ➡ Selenium , BeautifulSoup , Automation
+Machine Learning & Data Science: ➡Model development, NLP , Time Series Analysis, RAG <br>
+MLOps & Automation: ➡Model deployment, Docker, CI/CD pipelines <br>
+Backend & Web Development: ➡Django, Flask, FastAPI <br>
+Desktop Development: ➡GUI applications with PyQt5 <br>
+Data Visualization & Analysis:➡ SQL, Power BI, Tableau <br>
+Web Scraping & Data Extraction ➡ Selenium , BeautifulSoup , Automation <br>
 I am passionate about turning data into valuable insights and building intelligent AI-driven systems. I continuously improve myself to develop next-generation AI solutions and manage large-scale data processes. </p>
 
 
