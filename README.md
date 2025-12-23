@@ -1,83 +1,76 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/hüseyindoğdu18/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hüseyin_Doğdu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+H%C3%BCseyin+Do%C4%9Fdu;Python+Developer;Data+Science+%7C+AI+%7C+MLOps" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/hüseyindoğdu18/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Hüseyin Doğdu</h1>
-<h3 align="center">Python Developer | Data Scientist | AI & MLOps Enthusiast</h3>
+## 🧠 Tech Stack
+
+### 🧪 Data Science & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+
+### 🤖 NLP & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-Text%20Classification-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-LLM%20Pipelines-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time%20Series-Forecasting-orange?style=for-the-badge"/>
+</p>
+
+### ⚙️ MLOps & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" />
+</p>
+
+### 🌐 Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" />
+</p>
+
+### 🖥 Desktop & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/PyQt5-GUI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-Automation-red?style=for-the-badge"/>
+</p>
+
+### 📊 Data & Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-Analytics-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 📈 GitHub Activity
 
-I am a **Python Developer** specializing in **Data Science, Machine Learning, and MLOps**, with a strong focus on building **scalable, data-driven, and AI-powered solutions**.
-
-I enjoy transforming raw data into **actionable insights** and developing **intelligent systems** that solve real-world problems. I continuously invest in learning new technologies to stay aligned with next-generation AI solutions and modern data platforms.
-
----
-
-## 🧠 Core Skills & Interests
-
-### 🔹 Machine Learning & Data Science
-- Supervised & Unsupervised Learning  
-- NLP, Text Classification, Sentiment Analysis  
-- Time Series Analysis & Forecasting  
-- RAG (Retrieval-Augmented Generation)
-
-### 🔹 MLOps & Automation
-- Model Deployment & Monitoring  
-- Docker & Containerization  
-- CI/CD Pipelines  
-- Experiment Tracking & Versioning
-
-### 🔹 Backend & Web Development
-- Django, Flask, FastAPI  
-- RESTful API Development  
-- Authentication & Data-Driven Applications
-
-### 🔹 Desktop Development
-- GUI Applications with **PyQt5**
-
-### 🔹 Data Visualization & Analytics
-- SQL  
-- Power BI, Tableau  
-- Dashboard & Reporting Systems
-
-### 🔹 Web Scraping & Data Extraction
-- Selenium  
-- BeautifulSoup  
-- Automation & Data Pipelines
-
----
-
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huso987&show_icons=true&theme=dracula&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huso987&layout=compact&theme=dracula" height="160"/>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=huso987&theme=dracula&hide_border=false" height="200"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huso987&show_icons=true&count_private=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huso987&layout=compact&langs_count=6&theme=dracula" height="160"/>
-</div>
+---
+
+## 🚀 Focus Areas
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-Production%20Ready-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-Scalable-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-End--to--End-critical?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🎯 What I’m Working On
-- AI-powered applications  
-- End-to-end ML pipelines  
-- Data-driven decision systems  
-- Scalable backend architectures  
-
----
-
-## 🤝 Let’s Connect
-- 💼 LinkedIn: [Hüseyin Doğdu](https://www.linkedin.com/in/hüseyindoğdu18/)
-- 💻 GitHub: [huso987](https://github.com/huso987)
-
----
-
-⭐ *Feel free to explore my repositories and reach out for collaboration opportunities.*
+⭐ *Building intelligent, scalable and data-driven systems.*
