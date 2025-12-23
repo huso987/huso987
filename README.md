@@ -21,9 +21,17 @@
 
 ###
 
-<p align="left">As a Computer Engineering graduate from Yalova University, I have developed a strong foundation in various programming languages and frameworks through internships, certified training, and participation in Teknofest. My practical experience spans across Django, Vue.js, Nuxt.js, Computer Vision, and Natural Language Processing (NLP).
+<p align="left">I specialize in Data Science, and MLOps, focusing on developing data-driven solutions and optimizing AI and automation workflows.
 
-Currently, I am focusing on specializing in Artificial Intelligence and Machine Learning, continuously enhancing my skills in these cutting-edge fields. Additionally, I am deepening my expertise in Django and Spring, aiming to integrate these technologies to create robust and scalable applications.I am passionate about leveraging AI and ML to solve real-world problems and am dedicated to staying updated with the latest advancements in technology. </p>
+💡 Key Skills & Interests:
+
+Machine Learning & Data Science: ➡Model development, NLP , Time Series Analysis, RAG
+MLOps & Automation: ➡Model deployment, Docker, CI/CD pipelines
+Backend & Web Development: ➡Django, Flask, FastAPI
+Desktop Development: ➡GUI applications with PyQt5
+Data Visualization & Analysis:➡ SQL, Power BI, Tableau
+Web Scraping & Data Extraction ➡ Selenium , BeautifulSoup , Automation
+I am passionate about turning data into valuable insights and building intelligent AI-driven systems. I continuously improve myself to develop next-generation AI solutions and manage large-scale data processes. </p>
 
 
 ###
